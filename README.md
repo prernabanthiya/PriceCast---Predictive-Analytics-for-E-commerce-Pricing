@@ -1,7 +1,7 @@
 ﻿# PriceCast---Predictive-Analytics-for-E-commerce-Pricing
 ---
 <p align="center">
-  <img src="demo.png" alt="PriceCast Streamlit App Demo" width="75%">
+  <img src="product.png" alt="PriceCast Streamlit App Demo" width="75%">
 </p>
 
 
@@ -62,6 +62,7 @@ This end-to-end solution combines **Sentence-BERT**, **CLIP embeddings**, and **
 💾 Implement model checkpointing for long sessions
 
 🧰 Integrate experiment tracking (Weights & Biases or MLflow)
+
 
 
 
