@@ -1,5 +1,9 @@
 ﻿# PriceCast---Predictive-Analytics-for-E-commerce-Pricing
 ---
+<p align="center">
+  <img src="demo.png" alt="PriceCast Streamlit App Demo" width="75%">
+</p>
+
 
 A **multimodal machine learning pipeline** built for the **Amazon ML Challenge**, predicting product prices using **text**, **image**, and **tabular** features.  
 This end-to-end solution combines **Sentence-BERT**, **CLIP embeddings**, and **engineered numerical signals**, trained through a **5-fold ensemble of MLP and Ridge regressors**.
@@ -58,5 +62,6 @@ This end-to-end solution combines **Sentence-BERT**, **CLIP embeddings**, and **
 💾 Implement model checkpointing for long sessions
 
 🧰 Integrate experiment tracking (Weights & Biases or MLflow)
+
 
 
